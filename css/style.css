@@ -43,6 +43,7 @@ nav ul li a {
 
 nav ul li a:hover{
     color: #c0c0c0;
+    text-shadow: rgba(255,255,255,0.5) 0px 0px 75px;
 }
 
 .section {
@@ -112,6 +113,7 @@ footer a {
     font-family: "Plus Jakarta Sans", serif;
     font-size: 15px;
     transition-duration: 1s;
+    cursor: pointer;
 }
 
 .tlacitko:hover{
